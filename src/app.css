@@ -1,0 +1,7 @@
+body {
+  background: linear-gradient(90deg, #ff7171, #6e0000, #ff7171);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  font-family: "Inter", sans-serif;
+}

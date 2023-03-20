@@ -1,0 +1,21 @@
+.weOfferItem {
+  margin-left: 90px;
+}
+.weOfferItem__image {
+  width: 250px;
+  height: 250px;
+}
+.weOfferItem__title {
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 39px;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+.weOfferItem__text {
+  font-style: italic;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 29px;
+  color: #ffffff;
+}

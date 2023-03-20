@@ -1,0 +1,37 @@
+.burgerNavigation {
+}
+.burgerNavigation__menuBtn {
+}
+.burgerNavigation__menuBtn span {
+  margin-top: 6px;
+  background-color: white;
+  display: block;
+  width: 30px;
+  height: 1px;
+}
+
+.burgerNavigation__menu_item {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+  color: #ffffff;
+  list-style: none;
+  margin-top: 10px;
+}
+.burgerNavigation__menu_activeItem {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+  color: #ffffff;
+  list-style: none;
+  color: #e6213e;
+  margin-top: 10px;
+}
+.burgerNavigation__menu {
+  background-color: brown;
+  padding: 10px 20px 10px 0px;
+  border-radius: 20px;
+}
+.burgerNavigation__menu_active {
+  position: absolute;
+}

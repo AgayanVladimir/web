@@ -1,0 +1,18 @@
+.weOffer {
+  padding: 66px 0px 160px;
+}
+.weOffer__container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.weOffer__title {
+  font-weight: 700;
+  font-size: 62px;
+  line-height: 75px;
+  color: #ffffff;
+  text-align: center;
+}
+.weOffer__body {
+  display: flex;
+  margin-left: -90px;
+}

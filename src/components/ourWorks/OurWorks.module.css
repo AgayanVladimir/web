@@ -1,0 +1,15 @@
+.ourWorks {
+  padding: 70px 0px 50px;
+}
+.ourWorks__container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.ourWorks__title {
+  text-align: center;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 58px;
+  color: #ffffff;
+  margin-bottom: 60px;
+}

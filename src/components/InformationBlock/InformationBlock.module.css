@@ -1,0 +1,35 @@
+.informationBlock {
+  margin-top: -1px;
+  padding: 96px 0px 110px;
+}
+.informationBlock__container {
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.informationBlock__info_title {
+  max-width: 540px;
+  font-weight: 700;
+  font-size: 62px;
+  line-height: 75px;
+  color: #ffffff;
+  margin-bottom: 58px;
+}
+.informationBlock__info_title span {
+  color: #21e6c9;
+}
+.informationBlock__info_firstText,
+.informationBlock__info_secondText {
+  font-style: italic;
+  font-weight: 300;
+  font-size: 32px;
+  line-height: 39px;
+  color: #ffd8d8;
+  max-width: 527px;
+}
+.informationBlock__info_firstText {
+  margin-bottom: 48px;
+}

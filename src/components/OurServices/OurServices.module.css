@@ -1,0 +1,31 @@
+.ourServices {
+  padding-bottom: 60px;
+}
+.ourServices__container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.ourServices__title {
+  text-align: center;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 58px;
+  color: #ffffff;
+  margin-bottom: 50px;
+}
+.ourServices__body {
+  padding: 30px;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 10px;
+  background: linear-gradient(
+    90deg,
+    #31111c,
+    #e4282a,
+    #f3eb63,
+    #d52827,
+    #110a13
+  );
+  box-shadow: inset rgba(0, 0, 0, 0.6) 0 -3px 8px,
+    inset rgba(252, 255, 255, 0.7) 0 3px 8px, rgba(0, 0, 0, 0.8) 0 3px 8px -3px;
+}
